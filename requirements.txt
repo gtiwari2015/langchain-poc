@@ -1,0 +1,24 @@
+boto3
+langchain
+streamlit
+langchain-openai
+openai
+load_dotenv
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+ipykernel
+langchain_community
+bs4
+pypdf
+chromadb  # chroma db as vector store Vector DB
+faiss-cpu # vector DB
+groq
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+sentence_transformers
+llama-index
